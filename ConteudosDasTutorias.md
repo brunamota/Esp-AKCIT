@@ -5,7 +5,7 @@
 </div>
 
 <details>
- <summary> ## Introduções práticas a ferramentas de IA Generativa </summary>
+ <summary> Introduções práticas a ferramentas de IA Generativa </summary>
 
 ### 📝 Módulo 1: Ferramentas generativas para Texto
 
