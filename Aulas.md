@@ -25,7 +25,7 @@
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 4: Conectando Mundos com IA Multimodal
 
 - [Tutoria 7 (25/06/2025) - Aplicação das Ferramentas Multimodais](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M4%20-%20Aplica%C3%A7%C3%A3o%20das%20Ferramentas%20Multimodais_compressed.pdf)
-- [Tutoria 8 (1º/07/2025) -Implicações éticas na IA com base em casos de uso](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M4%20-%20Implica%C3%A7%C3%B5es%20%C3%A9ticas%20na%20IA%20com%20base%20em%20casos%20de%20uso_compressed.pdf)
+- [Tutoria 8 (02/07/2025) -Implicações éticas na IA com base em casos de uso](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M4%20-%20Implica%C3%A7%C3%B5es%20%C3%A9ticas%20na%20IA%20com%20base%20em%20casos%20de%20uso_compressed.pdf)
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 5: Implicações Éticas da IA Generativa
 
