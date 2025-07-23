@@ -192,7 +192,7 @@ print("Broadcasting entre diferentes tamanhos:\n", j) # Broadcasting entre difer
 ```
 
 ### Visualização com Matplotlib
-
+- Plotagem
 ``` python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -211,7 +211,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
-
+- Histograma
 ``` python
 # Dados aleatórios
 data = np.random.normal(size=1000)
