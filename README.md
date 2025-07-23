@@ -4,7 +4,7 @@
 
 </div>
 
-### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas (Advanced Knowledge Center for Immersive Technologies)
+### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
 ### Tutora: Bruna Mota Barbosa
 
 ## Horário da Tutoria
