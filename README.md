@@ -2,8 +2,8 @@
 
 <img width="700" height="200" alt="Sem Título-2" src="https://github.com/user-attachments/assets/2711e6a2-2e90-4b83-aef8-23831dbabea6" />
 
-### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
-### Tutora: Bruna Mota Barbosa
+#### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
+#### Tutora: Bruna Mota Barbosa
 
 ## Horário da Tutoria -  Segunda às 20h
 
