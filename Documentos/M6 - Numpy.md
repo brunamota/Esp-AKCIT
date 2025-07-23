@@ -101,9 +101,16 @@ print("Divisão:", f) #  Divisão: [4. 2.5 2.]
 
 ### Funções Universais (ufunc)
 - Funções matemáticas aplicadas elemento a elemento
-- Exemplos: np.mean, np.sum, np.sqrt, np.exp, np.sin
-- np.arange(start, stop, step)
-- np.linspace(start, stop, num)
+- Função arrange
+  - `início` é o primeiro valor da sequência.
+  - `fim` é o valor final do intervalo.
+  - `passo` é o valor final (inclusivo por padrão).
+  > np.arange(`início`:`fim`: `passo`)
+- Função linspace gerar uma sequência de números igualmente espaçados
+  - `início` é o primeiro valor da sequência.
+  - `fim` é o valor final do intervalo.
+  - `num` é o número total de elementos no array.
+  > np.linspace(`início`:`fim`: `num`)
 
 ``` python
 import numpy as np
@@ -141,13 +148,14 @@ print("Tipos de dados:", m1.dtype) # Tipos de dados: int64
 
 ### Indexação e Slicing
 - Técnicas para acessar e manipular partes do array
-- Slicing
+- Slicing é uma técnica de "fatiamento" de um array.
   - `início`: Determina onde será iniciado. Quando o valor de início é omitido, o fatiamento começa do primeiro elemento do array (índice 0).
   - `fim`: Determina onde será encerrado.Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
-  - `passo`: Este é o valor crucial aqui. Um passo de significa que o código selecionará um elemento a cada x posições, começando pelo `inicio`.
-  - array[`inicio`:`fim`]
-  - array[`inicio`:`fim`: `passo`]
-- np.where(condição, caso verdadeiro, caso falso)
+  - `passo`: Um passo de significa que o código selecionará um elemento a cada x posições, começando pelo `inicio`.
+  - array[`início`:`fim`]
+  - array[`início`:`fim`: `passo`]
+- Função where funciona com um "se-então-senão" que se aplica a um array inteiro de uma só vez.
+  - where(`condição`, `valor_se_verdadeiro`, `valor_se_falso`)
 
 ``` python
 import numpy as np
@@ -162,9 +170,7 @@ print("Elementos selecionados com step de 2:", array[1:8:2]) # Elementos selecio
 
 print("Elemento no índice 1:", array[1]) # Elemento no índice 1: 20
 
-print("Indexação por lista:", array[0:5:3]) # Indexação por lista: [10 40]
-
-print("Indexação booleana:", array[array > 30]) # Indexação booleana: [40 50]
+print("Escolhe de valores maiores que 30:", array[array > 30]) # Escolhe de valores maiores que 30: [40 50]
 
 array[0] = 0
 print("Array modificado:", array) # Array modificado: [ 0 20 30 40 50]
