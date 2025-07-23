@@ -7,9 +7,9 @@
 ### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
 ### Tutora: Bruna Mota Barbosa
 
-## Horário da Tutoria
+## Horário da Tutoria -  Segunda às 20h
 
-Segunda - 20h
+## [Conteúdo das tutorias](https://github.com/brunamota/Esp-AKCIT/blob/main/ConteudosDasTutorias.md)
 
 ## Datas Importantes
 
@@ -20,5 +20,5 @@ Segunda - 20h
 | 08/09/2025 - 21/12/2025 | Fundamentos avançados para implementação de IA generativa | - |
 | 22/12/2025 - 11/01/2026  | Recesso de Natal e Ano Novo | - |
 
-## [Conteúdo das tutorias](https://github.com/brunamota/Esp-AKCIT/blob/main/ConteudosDasTutorias.md)
+
 
