@@ -153,6 +153,7 @@ print("Tipos de dados:", m1.dtype) # Tipos de dados: int64
   - `fim`: Determina onde será encerrado.Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
   - `passo`: Um passo de significa que o código selecionará um elemento a cada x posições, começando pelo `inicio`.
   > array[`início`:`fim`]
+  
   > array[`início`:`fim`: `passo`]
 - Função where funciona com um "se-então-senão" que se aplica a um array inteiro de uma só vez.
   > where(`condição`, `valor_se_verdadeiro`, `valor_se_falso`)
