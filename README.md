@@ -4,8 +4,8 @@
 
 </div>
 
-### Ciência da Computação - ICET/UFJ
-### Docente: Bruna Mota Barbosa
+### AKCIT
+### Tutora: Bruna Mota Barbosa
 
 ## Horário da Tutoria
 
