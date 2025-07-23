@@ -4,7 +4,7 @@
 
 </div>
 
-## 1️⃣ Introduções práticas a ferramentas de IA Generativa
+## Introduções práticas a ferramentas de IA Generativa
 
 ### 📝 Módulo 1: Ferramentas generativas para Texto
 
@@ -31,7 +31,7 @@
 
 - [Tutoria 9 (09/07/2025) - Éticas e responsabilidade na IA Generativa](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M5%20-%20%C3%89ticas%20e%20responsabilidade%20na%20IA%20Generativa_compressed.pdf)
 
-## 2️⃣ Fundamentos básicos para implementação de IA generativa
+## Fundamentos básicos para implementação de IA generativa
 
 ### 🐍 Módulo 6: Python para processamento de dados
 
@@ -42,7 +42,7 @@
 
 ### 🦾 Módulo 8: Aprendizado auto-supervisionado
 
-## 3️⃣ Fundamentos avançados para implementação de IA generativa
+## 3Fundamentos avançados para implementação de IA generativa
 
 ### 📋 Módulo 9: Arquiteturas neurais avançadas para IA generativa para texto
 
