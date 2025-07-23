@@ -65,16 +65,16 @@ import numpy as np
 matriz  = np.array([[1, 2, 3],[4, 5, 6]])
 
 print("Adição:", matriz + 10) #  Adição: [[11 12 13]
-[14 15 16]]
+                              #            [14 15 16]]
 
 print("Subtração:", matriz - 1) #  Subtração: [[0 1 2]
-[3 4 5]]
+                              #            [3 4 5]]
 
 print("Multiplicação:", matriz * 2) #  Multiplicação: [[ 2  4  6]
-[ 8 10 12]]
+                              #            [ 8 10 12]]
 
 print("Divisão:", matriz / 2) #  Divisão: [[0.5 1.  1.5]
-                                          [2.  2.5 3. ]]
+                              #            [2.  2.5 3. ]]
 
 
 ```
