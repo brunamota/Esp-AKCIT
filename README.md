@@ -4,5 +4,23 @@
 
 </div>
 
+### Ciência da Computação - ICET/UFJ
+### Docente: Bruna Mota Barbosa
+
+## Horário da Tutoria
+
+Segunda - 20h
+
+## Datas Importantes
+
+| Período | Trilha |
+| --- | --- |
+| 05/05/2025 - 13/07/2025 | Introduções práticas a ferramentas de IA Generativa |
+| 14/07/2025 - 07/09/2025 | Fundamentos básicos para implementação de IA generativa |
+| 08/09/2025 - 21/12/2025 | Fundamentos avançados para implementação de IA generativa |
+| 22/12/2025 - 11/01/2026  | Recesso de Natal e Ano Novo |
+
+## Documentos da Disciplina
+
 ✏️ [Conteúdo das tutorias](https://github.com/brunamota/Esp-AKCIT/blob/main/ConteudosDasTutorias.md)
 
