@@ -59,8 +59,6 @@ print(df)
 - Estatísticas básicas
 
 ``` python
-import pandas as pd
-
 # Acessando colunas e linhas
 print(df['Nome'])          # Uma coluna
 print(df.iloc[0])          # Primeira linha
@@ -80,8 +78,6 @@ print(df)
 - Agrupar por colunas
 - Ordenar dados
 ``` python
-import pandas as pd
-
 # Filtro
 print(df[df['Salário'] > 4000])
 
@@ -97,7 +93,6 @@ print(df.sort_values(by='Salário', ascending=False))
 - Evita reprocessar toda vez
 
 ``` python
-import pandas as pd
 import pickle
 
 # Salvando DataFrame
