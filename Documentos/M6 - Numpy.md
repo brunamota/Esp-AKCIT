@@ -21,7 +21,7 @@
 ### Verificar se o NumPy e o Matplotlib estão instalados
 - Importar pelo CMD ou pela própria IDE utilizada
 
-```
+``` cmd
 pip install numpy matplotlib
 ```
 - Verificar se a instalação foi realizada
@@ -33,5 +33,5 @@ print("Versão do NumPy:", np.__version__)
 ### Vetores, Matrizes e Tensors:
 
 - Vetor = Array 1D (ex: [1, 2, 3])
-Matriz = Array 2D (ex: [[1,2],[3,4]])
-Tensor = Array 3D+ (ex: imagem colorida)
+- Matriz = Array 2D (ex: [[1,2],[3,4]])
+- Tensor = Array 3D+ (ex: imagem colorida)
