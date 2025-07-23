@@ -1,11 +1,5 @@
 # NumPy: Processamento de Dados Estruturados Multidimensionais
 
-## Tutoria 10 - 16/07/2025
-
-[Documentação do NumPy](https://numpy-org.translate.goog/devdocs/user/absolute_beginners.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
-
-[Códigos feitos na tutoria](https://github.com/brunamota/Esp-AKCIT/tree/main/M6/NumPy)
-
 ## Conceitos
 
 - Biblioteca fundamental para computação científica com Python
@@ -236,3 +230,9 @@ plt.bar(range(5), np.mean(data, axis=1))
 plt.title("Média por Linha")
 plt.show()
 ```
+
+## Tutoria 10 - 16/07/2025
+
+[Documentação do NumPy](https://numpy-org.translate.goog/devdocs/user/absolute_beginners.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+
+[Códigos feitos na tutoria](https://github.com/brunamota/Esp-AKCIT/tree/main/M6/NumPy)
