@@ -103,14 +103,14 @@ print("Divisão:", f) #  Divisão: [4. 2.5 2.]
 - Funções matemáticas aplicadas elemento a elemento
 - Função arrange
   - `início` é o primeiro valor da sequência.
-  - `fim` é o valor final do intervalo.
-  - `passo` é o valor final (inclusivo por padrão).
-  > np.arange(`início`:`fim`: `passo`)
+  - `fim` é o valor final (inclusivo por padrão).
+  - `passo` é a distância entre cada número na sequência.
+  > np.arange(`início`,`fim`, `passo`)
 - Função linspace gerar uma sequência de números igualmente espaçados
   - `início` é o primeiro valor da sequência.
   - `fim` é o valor final do intervalo.
   - `num` é o número total de elementos no array.
-  > np.linspace(`início`:`fim`: `num`)
+  > np.linspace(`início`,`fim`, `num`)
 
 ``` python
 import numpy as np
@@ -152,10 +152,10 @@ print("Tipos de dados:", m1.dtype) # Tipos de dados: int64
   - `início`: Determina onde será iniciado. Quando o valor de início é omitido, o fatiamento começa do primeiro elemento do array (índice 0).
   - `fim`: Determina onde será encerrado.Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
   - `passo`: Um passo de significa que o código selecionará um elemento a cada x posições, começando pelo `inicio`.
-  - array[`início`:`fim`]
-  - array[`início`:`fim`: `passo`]
+  > array[`início`:`fim`]
+  > array[`início`:`fim`: `passo`]
 - Função where funciona com um "se-então-senão" que se aplica a um array inteiro de uma só vez.
-  - where(`condição`, `valor_se_verdadeiro`, `valor_se_falso`)
+  > where(`condição`, `valor_se_verdadeiro`, `valor_se_falso`)
 
 ``` python
 import numpy as np
