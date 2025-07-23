@@ -7,11 +7,11 @@
 ### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
 ### Tutora: Bruna Mota Barbosa
 
-## 📅 Horário da Tutoria -  Segunda às 20h
+## Horário da Tutoria -  Segunda às 20h
 
-## [✍️ Conteúdo das tutorias](https://github.com/brunamota/Esp-AKCIT/blob/main/ConteudosDasTutorias.md)
+## [Conteúdo das tutorias](https://github.com/brunamota/Esp-AKCIT/blob/main/ConteudosDasTutorias.md)
 
-## 🚩 Datas Importantes
+## Datas Importantes
 
 | Período | Trilha | Status |
 | --- | --- | --- |
