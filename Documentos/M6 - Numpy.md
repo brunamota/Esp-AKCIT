@@ -150,7 +150,7 @@ array = np.array([10, 20, 30, 40, 50])
 
 print("Primeiros dois elementos:", array[:2]) # Primeiros dois elementos: [10 20]
 
-print("Elementos entre a 2ª e a 4ª posição do array: ", array[1:4]) # Elementos entre a 2ª e a 4ª posição do array:  [20 30 40]
+print("Elementos entre a 2ª e a 4ª posição do array: ", array[1:4]) # Elementos entre a 2ª e a 4ª posição do array: [20 30 40]
 
 print("Elementos selecionados com step de 2:", array[1:8:2]) # Elementos selecionados com step de 2: [20 40]
 
