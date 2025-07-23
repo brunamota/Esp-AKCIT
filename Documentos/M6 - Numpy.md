@@ -8,7 +8,7 @@
 - Suporte para arrays n-dimensionais e operações vetoriais rápidas
 - Base para outras bibliotecas: Pandas, SciPy, Scikit-learn
 
-## Exemplos práticos feitos em sala
+## Exemplos práticos
 
 ### Verificar se o NumPy e o Matplotlib estão instalados
 - Importar pelo CMD ou pela própria IDE utilizada
