@@ -30,7 +30,6 @@ print("Versão do Pandas:",pd.__version__)
 import pandas as pd
 
 s_lista = pd.Series([1, 3, 5, np.nan, 6, 8])
-print("--- Series a partir de uma lista ---")
 print(s_lista)
 ```
 - Criando uma Series a partir de um dicionário
@@ -154,12 +153,12 @@ print(df.sort_values(by='Salário', ascending=False)) # Coloca em ordem decresce
 import pickle
 
 # Salvando DataFrame
-df.to_pickle('dados.pkl') # [cite: 633]
+df.to_pickle('dados.pkl')
 print("\nDataFrame salvo com sucesso em 'dados.pkl'")
 
 # Lendo de volta
 df_do_pickle = pd.read_pickle('dados.pkl')
-print("\n--- DataFrame carregado do arquivo Pickle ---")
+print("\nDataFrame carregado do arquivo Pickle")
 print(df_do_pickle)
 
 ```
