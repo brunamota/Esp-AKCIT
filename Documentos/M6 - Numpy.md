@@ -2,17 +2,7 @@
 
 [Documentação do NumPy](https://numpy-org.translate.goog/devdocs/user/absolute_beginners.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 
-## Objetivos
-
-- Entender o que é o NumPy e por que é utilizado
-- Aprender a manipular arrays (1D, 2D, 3D)
-- Comparar arrays NumPy com listas Python
-- Realizar operações matemáticas com arrays
-- Utilizar funções universais (ufuncs)
-- Gerar gráficos com o Matplotlib
-- Praticar com exemplos interativos no PyCharm
-
-## Como funciona?
+## Conceitos
 
 - Biblioteca fundamental para computação científica com Python
 - Suporte para arrays n-dimensionais e operações vetoriais rápidas
