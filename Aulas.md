@@ -36,7 +36,7 @@
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 6: 
 
 - [Tutoria 10 (16/07/2025) - NumPy: Processamento de Dados Estruturados Multidimensionais](https://github.com/brunamota/Esp-AKCIT/blob/main/Documentos/M6%20-%20Numpy.md)
-- [Tutoria 11 (24/07/2025) - Pandas: Manipulação e Análise de Dados Bidimensionais](https://github.com/brunamota/Esp-AKCIT/blob/main/Documentos/M6%20-%20Panda.md)
+- [Tutoria 11 (24/07/2025) - Pandas: Manipulação e Análise de Dados Bidimensionais](https://github.com/brunamota/Esp-AKCIT/blob/main/Documentos/M6%20-%20Pandas.md)
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 7: 
 
