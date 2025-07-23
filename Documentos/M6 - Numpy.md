@@ -141,6 +141,12 @@ print("Tipos de dados:", m1.dtype) # Tipos de dados: int64
 
 ### Indexação e Slicing
 - Técnicas para acessar e manipular partes do array
+- Slicing
+  - início: Quando o valor de início é omitido, o fatiamento começa do primeiro elemento do array (índice 0).
+  - fim: Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
+  - passo: Este é o valor crucial aqui. Um passo de 4 significa que o código selecionará um elemento a cada quatro posições, começando pelo primeiro.
+  - array[inicio:fim]
+  - 
 - np.where(condição, caso verdadeiro, caso falso)
 
 ``` python
@@ -156,9 +162,9 @@ print("Elementos selecionados com step de 2:", array[1:8:2]) # Elementos selecio
 
 print("Elemento no índice 1:", array[1]) # Elemento no índice 1: 20
 
-print("Indexação por lista:", array[::4]) # Indexação por lista: [10 50]
+print("Indexação por lista:", array[0:5:3]) # Indexação por lista: [10 40]
 
-print("Indexação booleana:", array[1:4]) # Indexação booleana: [20 30 40]
+print("Indexação booleana:", array[array > 30]) # Indexação booleana: [40 50]
 
 array[0] = 0
 print("Array modificado:", array) # Array modificado: [ 0 20 30 40 50]
