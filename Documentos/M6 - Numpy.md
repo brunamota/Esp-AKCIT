@@ -142,11 +142,11 @@ print("Tipos de dados:", m1.dtype) # Tipos de dados: int64
 ### Indexação e Slicing
 - Técnicas para acessar e manipular partes do array
 - Slicing
-  - início: Quando o valor de início é omitido, o fatiamento começa do primeiro elemento do array (índice 0).
-  - fim: Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
-  - passo: Este é o valor crucial aqui. Um passo de 4 significa que o código selecionará um elemento a cada quatro posições, começando pelo primeiro.
-  - array[inicio:fim]
-  - 
+  - `início`: Determina onde será iniciado. Quando o valor de início é omitido, o fatiamento começa do primeiro elemento do array (índice 0).
+  - `fim`: Determina onde será encerrado.Quando o valor de fim é omitido, o fatiamento vai até o último elemento do array.
+  - `passo`: Este é o valor crucial aqui. Um passo de significa que o código selecionará um elemento a cada x posições, começando pelo `inicio`.
+  - array[`inicio`:`fim`]
+  - array[`inicio`:`fim`: `passo`]
 - np.where(condição, caso verdadeiro, caso falso)
 
 ``` python
