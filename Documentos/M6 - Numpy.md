@@ -121,7 +121,8 @@ print("Matriz 3x2 de uns:", np.mean((3,2))) # Matriz 3x2 de uns: [[1. 1.]
                                             #                     [1. 1.]]
 
 print("Vetor com o intervalo de 0 até 10 com o passo de 2:", np.arange(0, 10, 2)) # Vetor com o intervalo de 0 até 10 com o passo de 2: [0 2 4 6 8]
-print("Vetor com o intervalo de 0 até 1 que contem 5 números espaçados de maneira igual:", np.linspace(0, 1, 5)) # Vetor com o intervalo de 0 até 1 que contem 5 números espaçados de maneira igual: [0.   0.25 0.5  0.75 1.  ]
+print("Vetor com o intervalo de 0 até 1 que contem 5 números espaçados de maneira igual:", np.linspace(0, 1, 5)) # Vetor com o intervalo de 0 até 1
+                                                                                                                 # que contem 5 números espaçados de maneira igual: [0.   0.25 0.5  0.75 1.  ]
 
 m1 = np.array([[1, 2], [3, 4]])
 m2 = np.array([[5, 6], [7, 8]])
@@ -164,7 +165,8 @@ print("Array modificado:", array) # Array modificado: [ 0 20 30 40 50]
 indices = [1, 3, 4]
 print("Elementos selecionados:", array[indices]) # Elementos selecionados: [20 40 50]
 
-print("Caso o número do array for maior que 25, substituir por 1, caso for menor substituir por 0",np.where(array > 25, 1, 0)) # Caso o número do array for maior que 25, substituir por 1, caso for menor substituir por 0 [0 0 0 1 1]
+# Caso o número do array for maior que 25, substituir por 1, caso for menor substituir por 0 [0 0 0 1 1]
+print("Caso o número do array for maior que 25, substituir por 1, caso for menor substituir por 0",np.where(array > 25, 1, 0)) 
 
 h = np.array([1, 2, 3])
 i = np.array([[0], [1], [2]])
