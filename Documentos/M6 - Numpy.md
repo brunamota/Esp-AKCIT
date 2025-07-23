@@ -119,8 +119,8 @@ print("Desvio Padrão:", np.std(array)) #  Desvio Padrão: 1.4142135623730951
 print("Matriz 2x3 de zeros:", np.zeros(2,3)) #  Matriz 2x3 de zeros: [[0. 0. 0.]
  [0. 0. 0.]]
 print("Matriz 3x2 de uns:", np.mean(3,2)) # Matriz 3x2 de uns: [[1. 1.]
- [1. 1.]
- [1. 1.]]
+                                                   #            [1. 1.]
+                                                   #            [1. 1.]]
 print("Trabsposição:", array.T) # 
 
 print("Vetor com o intervalo de 0 até 10 com o passo de 2:", np.mean(0, 10, 2)) # 
