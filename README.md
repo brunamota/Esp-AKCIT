@@ -2,8 +2,6 @@
 
 <img width="700" height="200" alt="Sem Título-2" src="https://github.com/user-attachments/assets/2711e6a2-2e90-4b83-aef8-23831dbabea6" />
 
-</div>
-
 ### AKCIT - Centro de Competência EMBRAPII em Tecnologias Imersivas
 ### Tutora: Bruna Mota Barbosa
 
@@ -19,6 +17,10 @@
 | 14/07/2025 - 07/09/2025 | Fundamentos básicos para implementação de IA generativa | Em andamento |
 | 08/09/2025 - 21/12/2025 | Fundamentos avançados para implementação de IA generativa | - |
 | 22/12/2025 - 11/01/2026  | Recesso de Natal e Ano Novo | - |
+
+
+</div>
+
 
 
 
