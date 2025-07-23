@@ -1,3 +1,4 @@
-# Esp-AKCIT
 
-![iconGitVermelho](https://github.com/user-attachments/assets/d97481fc-c1ef-4c96-a1e4-b99b8a61990a)
+
+
+<img width="700" height="200" alt="Sem Título-2" src="https://github.com/user-attachments/assets/2711e6a2-2e90-4b83-aef8-23831dbabea6" />
