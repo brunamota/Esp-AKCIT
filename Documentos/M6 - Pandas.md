@@ -199,4 +199,4 @@ plt.show()
 
 ## Tutoria 11 - 23/07/2025
 
-[Códigos feitos na tutoria](https://github.com/brunamota/Esp-AKCIT/tree/main/M6/NumPy)
+[Códigos feitos na tutoria](https://github.com/brunamota/Esp-AKCIT/tree/main/M6/Pandas)
