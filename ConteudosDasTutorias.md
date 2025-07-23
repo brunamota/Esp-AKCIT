@@ -29,7 +29,7 @@
 </details>
 
 <details>
- <summary> 🔗 Módulo 4: Conectando Mundos com IA Multimodal v
+ <summary> 🔗 Módulo 4: Conectando Mundos com IA Multimodal </summary>
 
 - [Tutoria 7 (25/06/2025) - Aplicação das Ferramentas Multimodais](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M4%20-%20Aplica%C3%A7%C3%A3o%20das%20Ferramentas%20Multimodais_compressed.pdf)
 - [Tutoria 8 (02/07/2025) - Implicações éticas na IA com base em casos de uso](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M4%20-%20Implica%C3%A7%C3%B5es%20%C3%A9ticas%20na%20IA%20com%20base%20em%20casos%20de%20uso_compressed.pdf)
