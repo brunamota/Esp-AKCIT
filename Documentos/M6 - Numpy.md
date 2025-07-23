@@ -28,10 +28,30 @@ pip install numpy matplotlib
 ``` python
 import numpy as np
 print("Versão do NumPy:", np.__version__)
-
 ```
-### Vetores, Matrizes e Tensors:
+### Vetores, Matrizes e Tensors
 
 - Vetor = Array 1D (ex: [1, 2, 3])
+``` python
+import numpy as np
+vetor = np.array([1,2,3])
+print("Vetor:", vetor)
+print("Shape:", vetor.shape) # (3,)
+```
+  
 - Matriz = Array 2D (ex: [[1,2],[3,4]])
+``` python
+import numpy as np
+matriz = np.array([[1,2],[3,4]])
+print("Matriz:", matriz)
+print("Shape:", matriz.shape) # (2,2)
+```
+
 - Tensor = Array 3D+ (ex: imagem colorida)
+``` python
+import numpy as np
+tensor = np.array([[1,2],[3,4],[5,6],[7,8]])
+print("Tensor:", matriz)
+print("Shape:", tensor.shape) # (2,2,2)
+```
+
