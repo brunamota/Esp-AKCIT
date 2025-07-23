@@ -14,8 +14,8 @@
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 2: Ferramentas Generativas para Arte Digital
 
-- [Tutoria 3 - (28/05/2025)]()
-- [Tutoria 4 -(04/06/2025)]()
+- [Tutoria 3 (28/05/2025) - Ferramentas para geração de imagem digital](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M2%20-%20Ferramentas%20para%20gera%C3%A7%C3%A3o%20de%20imagem%20digital_compressed.pdf)
+- [Tutoria 4 (04/06/2025) - Engenharia de Prompts para criação de arte digita](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M2%20-%20Engenharia%20de%20Prompts%20para%20cria%C3%A7%C3%A3o%20de%20arte%20digital_compressed.pdf)
 
 ![iconGitEstrela](https://github.com/user-attachments/assets/d43926f1-a0fd-41d3-a971-677d4ebecc21) Módulo 3: Ferramentas generativas para Áudio, Voz e Música
 
