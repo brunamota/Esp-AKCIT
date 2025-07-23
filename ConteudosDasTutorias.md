@@ -41,6 +41,7 @@
 - [Tutoria 9 (09/07/2025) - Éticas e responsabilidade na IA Generativa](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M5%20-%20%C3%89ticas%20e%20responsabilidade%20na%20IA%20Generativa_compressed.pdf)
 
 </details>
+
 ## Fundamentos básicos para implementação de IA generativa 
 
 <details>
