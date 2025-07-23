@@ -40,16 +40,44 @@
 
 ### 🧠 Módulo 7: Introdução a Machine Learning e Redes Neurais
 
+- Tutoria 12 (28/07/2025)
+- Tutoria 13 (04/08/2025)
+- Tutoria 14 (11/08/2025)
+- Tutoria 15 (18/08/2025)
+
 ### 🦾 Módulo 8: Aprendizado auto-supervisionado
 
-## 3Fundamentos avançados para implementação de IA generativa
+- Tutoria 16 (25/08/2025)
+- Tutoria 17 (1º/09/2025)
+
+## Fundamentos avançados para implementação de IA generativa
 
 ### 📋 Módulo 9: Arquiteturas neurais avançadas para IA generativa para texto
 
+- Tutoria 18 (10/09/2025)
+- Tutoria 19 (15/09/2025)
+- Tutoria 20 (22/09/2025)
+
 ### 👀 Módulo 10: Arquiteturas neurais avançadas para IA generativa para visão computacional
+
+- Tutoria 21 (29/09/2025)
+- Tutoria 22 (06/10/2025)
+- Tutoria 23 (13/10/2025)
 
 ### 📣 Módulo 11: Arquiteturas neurais avançadas para IA generativa para áudio e voz
 
+- Tutoria 22 (20/10/2025)
+- Tutoria 23 (27/10/2025)
+- Tutoria 24 (03/11/2025)
+
 ### ⛓️ Módulo 12: Arquiteturas neurais avançadas para IA generativa multimodal
 
+- Tutoria 24 (10/11/2025)
+- Tutoria 25 (17/11/2025)
+- Tutoria 26 (24/11/2025)
+  
 ### 🚧 Módulo 13: MLOps e infraestrutura de soluções
+
+- Tutoria 27 (1º/12/2025)
+- Tutoria 28 (08/12/2025)
+- Tutoria 29 (15/12/2025)
