@@ -6,7 +6,7 @@
 
 ## 1️⃣ Introduções práticas a ferramentas de IA Generativa
 
-###📝 Módulo 1: Ferramentas generativas para Texto
+### 📝 Módulo 1: Ferramentas generativas para Texto
 
 - [Tutoria 1 (14/05/2025) - Introdução à geração de texto com modelos de linguagem](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M1%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20gera%C3%A7%C3%A3o%20de%20texto%20com%20modelos%20de%20linguagem_compressed.pdf)
 
