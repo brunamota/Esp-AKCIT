@@ -24,21 +24,21 @@ print("Versão do NumPy:", np.__version__)
 ```
 ### Vetores, Matrizes e Tensors
 
-- Vetor = Array 1D (ex: [1, 2, 3])
+- Criando um Vetor (Array 1D)
 ``` python
 import numpy as np
 vetor = np.array([1,2,3])
 print("Vetor:", vetor)
 ```
   
-- Matriz = Array 2D (ex: [[1,2],[3,4]])
+- Criando uma Matriz (Array 2D)
 ``` python
 import numpy as np
 matriz = np.array([[1,2],[3,4]])
 print("Matriz:", matriz)
 ```
 
-- Tensor = Array 3D+ (ex: imagem colorida)
+- Criando um Tensor (Array 3D+)
 ``` python
 import numpy as np
 tensor = np.array([[1,2],[3,4],[5,6],[7,8]])
