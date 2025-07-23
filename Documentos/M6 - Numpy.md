@@ -231,6 +231,9 @@ plt.show()
 - Mostrar gráfico de barras
 
 ``` python
+import numpy as np
+import matplotlib.pyplot as plt
+
 data = np.random.rand(5, 5)
 print("Médias por linha:", np.mean(data, axis=1))
 print("Médias por coluna:", np.mean(data, axis=0))
