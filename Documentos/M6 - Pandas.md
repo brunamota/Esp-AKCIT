@@ -1,6 +1,6 @@
 # Pandas: Manipulação e Análise de Dados Bidimensionais
 
-[Documentação do Pandas](https://pandas.pydata.org/docs/)
+[Documentação do Pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 
 ## Conceitos
 
