@@ -93,7 +93,7 @@
 </details>
 
 <details>
- <summary> ⛓️ Módulo 12: Arquiteturas neurais avançadas para IA generativa multimodal v
+ <summary> ⛓️ Módulo 12: Arquiteturas neurais avançadas para IA generativa multimodal </summary>
 
 - Tutoria 24 (10/11/2025)
 - Tutoria 25 (17/11/2025)
