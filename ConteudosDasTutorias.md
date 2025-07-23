@@ -1,6 +1,6 @@
 <div align="center">
 
-![cabecalhoGitAulas](https://github.com/user-attachments/assets/82181798-e8bb-4d67-96e7-68eca1d87101)
+<img width="700" height="200" alt="Sem Título-21" src="https://github.com/user-attachments/assets/fdd62f2d-ec6f-4466-bf7e-53da3d927da2" />
 
 </div>
 
