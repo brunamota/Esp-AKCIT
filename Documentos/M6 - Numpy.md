@@ -132,7 +132,7 @@ print(m1[0,1]) # Elemento linha 0, coluna 1: 1
 
 print("Produto Matricial:", np.dot(m1, m2)) # [[19 22]
                                             #  [43 50]]
-print("Determinante:", np.linalg.det(m1)) # -2.0000000000000004
+print("Determinante:", np.linalg.det(m1)) # Determinante: -2.0000000000000004
 print("Autovalores:", np.linalg.eigvals(m1)) # [-0.37228132  5.37228132]
 print("Forma:", m1.shape) # Forma: (2, 2)
 print("Dimensões:", m1.ndim) # Dimensões: 2
