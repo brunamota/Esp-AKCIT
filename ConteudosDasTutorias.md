@@ -54,7 +54,7 @@
 <details>
  <summary> 🧠 Módulo 7: Introdução a Machine Learning e Redes Neurais </summary>
 
-- Tutoria 12 (28/07/2025)
+- [Tutoria 12 (28/07/2025) - Introdução a Machine Learning](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M7%20-%20Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning_compressed.pdf)
 - Tutoria 13 (04/08/2025)
 - Tutoria 14 (11/08/2025)
 - Tutoria 15 (18/08/2025)
