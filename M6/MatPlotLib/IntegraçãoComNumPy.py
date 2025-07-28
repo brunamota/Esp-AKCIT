@@ -1,14 +1,10 @@
+import numpy as np
 import matplotlib.pyplot as plt
 
-# Gráfico de barras
-df.plot(kind='bar', x='Nome', y='Salário', legend=False)
-plt.title("Salário por Pessoa")
-plt.ylabel("Salário")
-plt.grid(True)
-plt.show()
+data = np.random.rand(5, 5)
+print("Médias por linha:", np.mean(data, axis=1))
+print("Médias por coluna:", np.mean(data, axis=0))
 
-# Histograma
-df['Salário'].hist(bins=5)
-plt.title("Distribuição Salarial")
-plt.xlabel("Salário")
+plt.bar(range(5), np.mean(data, axis=1))
+plt.title("Média por Linha")
 plt.show()
