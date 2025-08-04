@@ -16,13 +16,13 @@
 - Funções matemáticas que criam fronteiras de decisão para separar as classes no espaço de características.
 - Para um novo dado, o algoritmo calcula uma "pontuação" para cada classe. A classe com a maior pontuação vence e o dado é classificado nela.
 
+### Classificação: binária e multiclasse.
+- **Classificação binária:** como o próprio nome diz, refere-se apenas a duas classes, como por exemplo os casos ilustrados na figura abaixo e a direita. Nesse caso se resumem a uma única função (reta em verde) que separa as duas classes (O de X). Exemplos de métodos de classificação binária incluem Regressão Logística e SVM.
+- **Classificação multiclasse:** Em problemas de classificação com mais de duas classes, como classificação de imagens em diferentes categorias, são requeridas múltiplas funções discriminantes, uma para cada par de classes, como o ilustrado abaixo e a direita. A reta vermelha separa o X dos quadrados e triângulos. A reta em verde separa os triângulos dos X e quadrados, por fim, a reta em azul separa os quadrados dos triângulos e X. Alguns exemplos de métodos multiclasse são a LDA e QDA.
+
 <div align="center">
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/527af02b-31e9-49b4-85f7-27716bf3f711" />
 </div>
-
-### Classificação: binária e multiclasse.
-- A classificação binária, como o próprio nome diz, refere-se apenas a duas classes, como por exemplo os casos ilustrados na figura abaixo e a direita. Nesse caso se resumem a uma única função (reta em verde) que separa as duas classes (O de X). Exemplos de métodos de classificação binária incluem Regressão Logística e SVM.
-- Em problemas de classificação com mais de duas classes, como classificação de imagens em diferentes categorias, são requeridas múltiplas funções discriminantes , uma para cada par de classes, como o ilustrado abaixo (Figura 24) e a direita. A reta vermelha separa o X dos quadrados e triângulos. A reta em verde separa os triângulos dos X e quadrados, por fim, a reta em azul separa os quadrados dos triângulos e X. Alguns exemplos de métodos multiclasse são a LDA e QDA.
 
 ## Os algoritmos LDA, QDA e RDA
 
