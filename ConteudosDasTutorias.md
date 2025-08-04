@@ -55,7 +55,7 @@
  <summary> 🧠 Módulo 7: Introdução a Machine Learning e Redes Neurais </summary>
 
 - [Tutoria 12 (28/07/2025) - Introdução a Machine Learning](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M7%20-%20Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning_compressed.pdf)
-- Tutoria 13 (04/08/2025)
+- [Tutoria 13 (04/08/2025) - Espaço de Características e Funções Discriminantes](https://github.com/brunamota/Esp-AKCIT/blob/main/Documentos/M7%20-%20Espa%C3%A7o%20de%20Caracter%C3%ADsticas%20e%20Fun%C3%A7%C3%B5es%20Discriminantes.md)
 - Tutoria 14 (11/08/2025)
 - Tutoria 15 (18/08/2025)
 </details>
