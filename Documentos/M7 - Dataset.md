@@ -49,5 +49,4 @@
  
 ## Prática: Dataset Iris
 
-Aplicar o LDA para reduzir a dimensionalidade do dataset Iris e visualizar como as classes se tornam mais fáceis de separar.
 [Código feito na tutoria](https://github.com/brunamota/Esp-AKCIT/tree/main/M7)
