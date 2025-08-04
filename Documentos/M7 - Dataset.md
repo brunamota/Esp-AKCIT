@@ -15,7 +15,6 @@
 
 - Funções matemáticas que criam fronteiras de decisão para separar as classes no espaço de características.
 - Para um novo dado, o algoritmo calcula uma "pontuação" para cada classe. A classe com a maior pontuação vence e o dado é classificado nela.
-- Imagine que cada classe de dados vive em um 'bairro' diferente. A função discriminante é a 'fronteira' que o algoritmo desenha para separar esses bairros. Quando um novo dado chega, o algoritmo verifica de que lado da fronteira ele caiu para decidir a qual classe pertence.
 
 <div align="center">
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/527af02b-31e9-49b4-85f7-27716bf3f711" />
