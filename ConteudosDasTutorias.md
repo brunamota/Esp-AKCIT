@@ -56,15 +56,15 @@
 
 - [Tutoria 12 (28/07/2025) - Introdução a Machine Learning](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M7%20-%20Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning_compressed.pdf)
 - [Tutoria 13 (04/08/2025) - Espaço de Características e Funções Discriminantes](https://github.com/brunamota/Esp-AKCIT/blob/main/Documentos/M7%20-%20Espa%C3%A7o%20de%20Caracter%C3%ADsticas%20e%20Fun%C3%A7%C3%B5es%20Discriminantes.md)
-- Tutoria 14 (11/08/2025)
-- Tutoria 15 (18/08/2025)
+- [Tutoria 14 (11/08/2025) - A Jornada do Dado: Da Preparação à Previsão](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M7%20-%20A%20Jornada%20do%20Dado%20Da%20Prepara%C3%A7%C3%A3o%20%C3%A0%20Previs%C3%A3o_compressed.pdf)
+- [Tutoria 15 (18/08/2025) - Tarefas e Ferramentas Avançadas em Machine Learning](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M7%20-%20Tarefas%20e%20Ferramentas%20Avan%C3%A7adas%20em%20Machine%20Learning_compressed.pdf)
 </details>
 
 <details>
  <summary> 🦾 Módulo 8: Aprendizado auto-supervisionado </summary>
 
-- Tutoria 16 (25/08/2025)
-- Tutoria 17 (1º/09/2025)
+- [Tutoria 16 (25/08/2025) - Fundamentos da Inteligência Artificial Generativa](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M8%20-%20Fundamentos%20da%20Intelig%C3%AAncia%20Artificial%20Generativa_compressed.pdf)
+- [Tutoria 17 (1º/09/2025) - IA Generativa Avançada: GANs, Modelos de Difusão e Fluxos](https://github.com/brunamota/Esp-AKCIT/blob/main/Slides/M8%20-%20IA%20Generativa%20Avan%C3%A7ada%20GANs%2C%20Modelos%20de%20Difus%C3%A3o%20e%20Fluxos_compressed.pdf)
 </details>
 
 ## Fundamentos avançados para implementação de IA generativa
@@ -72,7 +72,7 @@
 <details>
  <summary> 📋 Módulo 9: Arquiteturas neurais avançadas para IA generativa para texto </summary>
 
-- Tutoria 18 (10/09/2025)
+- Tutoria 18 (08/09/2025) - Master Class
 - Tutoria 19 (15/09/2025)
 - Tutoria 20 (22/09/2025)
 </details>
